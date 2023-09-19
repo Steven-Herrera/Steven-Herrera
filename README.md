@@ -51,8 +51,8 @@ I enjoy using ML and NLP models to create algorithms that utilize data to provid
 
 ## Where to find me
 <p align="left">
-  <a href="https://www.linkedin.com/in/steven-herrera-40916912a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dev.stevenherrera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/steven-herrera-40916912a/"><img src="https://img.shields.io/badge/-Steven%20Herrera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:dev.stevenherrera@gmail.com"><img src="https://img.shields.io/badge/-dev.stevenherrera@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
