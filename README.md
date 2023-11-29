@@ -32,10 +32,6 @@ I enjoy using ML and NLP models to create algorithms that utilize data to provid
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=Pytest)&nbsp;
 
-#### Databases
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-
 #### Tools
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
