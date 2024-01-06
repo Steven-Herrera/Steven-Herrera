@@ -38,7 +38,7 @@ I enjoy using ML and NLP models to create algorithms that utilize data to provid
 ![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
-[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven-Herrera)](https://github.com/Steven-Herrera/github-readme-stats)
+<!-- [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven-Herrera)](https://github.com/Steven-Herrera/github-readme-stats) -->
 #### Location
 - 🏔 Living in Houston, Texas
 #### Development
