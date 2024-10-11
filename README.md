@@ -5,6 +5,7 @@
 I enjoy using ML and NLP models to create algorithms that utilize data to provide valuable insights.
 
 #### Education
+- 📖 Studying at **Indiana University Bloomington** for my **PhD in Computer Science**
 - 📖 Studied at **University of Houston - Clear Lake** for my **Master of Science in Data Science**
 - 📖 Studied at **The University of Texas at Austin** for my **Bachelor of Science in Physics**
 - 🌱 **Completed Courses**: 
