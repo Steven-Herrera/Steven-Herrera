@@ -41,7 +41,7 @@ I enjoy using ML and NLP models to create algorithms that utilize data to provid
 
 <!-- [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven-Herrera)](https://github.com/Steven-Herrera/github-readme-stats) -->
 #### Location
-- 🏔 Living in Houston, Texas
+- 🏔 Living in Bloomington, Indiana
 #### Development
 - 🧠 Building a repository that will enhance my skills in Data Science, CI/CD, Unit Testing and MLOps in general
 - 🧠 Building models for Ordinal Text Classification in securities law
